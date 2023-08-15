@@ -527,3 +527,25 @@ h1{
     </div>
 </body>
 </html>
+ Let's break down the different sections of the provided HTML code for the YouTube clone, along with the corresponding HTML tags, CSS properties, new properties used, challenges faced, and a walkthrough of the code.
+
+Navbar Section:
+This section contains the header of the YouTube clone with the logo, search bar, and various icons.
+
+HTML tags used: <div>, <i>, <img>, <input>, <button>
+CSS properties used: display, justify-content, align-items, height, padding, margin, color, background-color
+Side Menu Bar Section:
+This section contains the sidebar with different categories like Home, Trending, Subscriptions, etc.
+
+HTML tags used: <div>, <hr>
+CSS properties used: width, background-color, overflow-y, display, flex-direction, padding
+Main Container with Video Cards:
+This section contains a list of video cards with thumbnails, author information, and video details.
+
+HTML tags used: <div>, <img>, <h3>, <a>, <span>
+CSS properties used: display, flex-direction, justify-content, flex-wrap, width, margin, object-fit, border-radius, color
+CSS Beautification and Alignment:
+Several CSS properties were used for beautification and alignment throughout the code, such as color, background-color, font-size, margin, padding, border, border-radius, height, width, object-fit, text-decoration, and more.
+
+New Properties Learned:
+From this code, some of the new CSS properties that were used include object-fit, which is used to control how the content of an <img> element is scaled and displayed inside its container, and line-height, which adjusts the spacing between lines of text within an element.
